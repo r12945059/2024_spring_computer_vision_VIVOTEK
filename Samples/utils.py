@@ -43,9 +43,3 @@ def get_frame_list(video_filename: str) -> list:
         frame_list.append(os.path.join(root_folder, frame))
 
     return sorted(frame_list)
-
-
-if __name__ == "__main__":
-    print("hello world==")
-    frame_list = get_frame_list("01.mp4")
-    print(*frame_list, sep="\n")
