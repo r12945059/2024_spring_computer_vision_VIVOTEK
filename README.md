@@ -68,4 +68,4 @@ Upload solution.zip to codalalab to display the ranking.
 solution/
 ├── output.json
 
-For the format of output.json, please refer to Samples/algorithm_output.json
+For the format of output.json, please refer to Samples/algorithm_output.json# 2024_spring_computer_vision_VIVOTEK
